@@ -14,3 +14,5 @@ This repository contains files with exercises, examples, and explanations from t
 ## Author
 
 Mauricio Ferreira
+
+Note: The names of classes, methods, and comments are in Portuguese.
